@@ -1,5 +1,8 @@
 # 📊 Customer-Segment-Analysis
-This project analyzes customer purchasing patterns using Power BI to identify revenue-driving product categories, evaluate the impact of discounts, and understand customer segmentation for better marketing strategies.
+This project focuses on analyzing customer purchasing behavior and segmentation using Power BI.
+The dashboard provides insights into customer demographics, product category performance, discount impact, shipping preferences, and purchase distribution across different customer clusters.
+
+The goal of this analysis is to help businesses understand customer behavior, identify high-performing product categories, and make data-driven decisions to improve marketing strategies and customer engagement.
 ![Customer Segment Analysis Dashboard](dashboard.png)
 📈 Key Insights
 Customer Overview
