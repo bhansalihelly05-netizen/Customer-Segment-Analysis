@@ -1,6 +1,6 @@
 # 📊 Customer-Segment-Analysis
-![Customer Segment Analysis Dashboard](dashboard.png)
 In this project, I transformed raw data into actionable business insights.
+![Customer Segment Analysis Dashboard](dashboard.png)
 🛠 Tools & Techniques Used:
  • Power BI
  • Data Modeling (Star Schema)
