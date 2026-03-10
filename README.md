@@ -12,3 +12,4 @@ In this project, I transformed raw data into actionable business insights.
  • Purchase trends by category
  • Seasonal buying patterns
  • Comparison between Purchases and Previous Purchases
+![Customer Segment Analysis Dashboard](dashboard.png)
