@@ -1,5 +1,5 @@
-# Customer-Segment-Analysis
-📊 Customer Segment Analysis
+# 📊 Customer-Segment-Analysis
+![Customer Segment Analysis Dashboard](dashboard.png)
 In this project, I transformed raw data into actionable business insights.
 🛠 Tools & Techniques Used:
  • Power BI
@@ -11,5 +11,5 @@ In this project, I transformed raw data into actionable business insights.
  • Revenue distribution across customer segments
  • Purchase trends by category
  • Seasonal buying patterns
- • Comparison between Purchases and Previous Purchases
-![Customer Segment Analysis Dashboard](dashboard.png)
+ • Comparison between Purchases and Previous Purchases.
+
